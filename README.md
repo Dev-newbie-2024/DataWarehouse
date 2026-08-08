@@ -1,6 +1,6 @@
 #  Data Warehouse and Analytics Project
 
-Welcome to my **Data Warehouse and Analytics Project**! 🚀
+Welcome to my **Data Warehouse and Analytics Project**! 
 
 This project is developed as part of my learning in **SQL, Data Engineering, Data Warehousing, ETL, Data Modeling, and Data Analytics**.
 
